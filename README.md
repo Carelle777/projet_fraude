@@ -1,6 +1,8 @@
 # Détection de fraude à l'assurance
 
-Projet de certification Jedha Fullstack (RNCP38777) — **Carelle Nouko**
+Projet de fin du bootcamp **Jedha Fullstack** (certification RNCP38777) — **Carelle Nouko**
+
+> Les données sont **fictives** : elles viennent d'un jeu de données public de Kaggle. Le but de ce projet est de **montrer ma méthode** de bout en bout (fusion de tables, RGPD, pipeline, choix du modèle, seuil), pas d'obtenir un modèle prêt pour la vraie vie.
 
 ## 1. Le problème
 
